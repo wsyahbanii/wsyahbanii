@@ -1,5 +1,14 @@
 [
   {
+    "name": "Anakindo Company Website & Admin System",
+    "repo": "wsyahbanii/anakindo",
+    "url": "https://www.anakindo.co.id",
+    "homepage": "https://www.anakindo.co.id",
+    "focus": "Full-stack company website & admin dashboard",
+    "summary": "A production company website with a PHP + JSON API backend, admin dashboard, product variation system, Cloudinary media pipeline, and live deployment on cPanel.",
+    "tags": ["PHP", "JavaScript", "REST API", "Admin Dashboard"]
+  },
+  {
     "name": "Personal Portfolio",
     "repo": "wsyahbanii/wsyahbanii.github.io",
     "url": "https://github.com/wsyahbanii/wsyahbanii.github.io",
@@ -27,13 +36,13 @@
     "tags": ["JavaScript", "Web App", "Media"]
   },
   {
-    "name": "Anakindo Company Website & Admin System",
-    "repo": "wsyahbanii/anakindo",
-    "url": "https://www.anakindo.co.id",
-    "homepage": "https://www.anakindo.co.id",
-    "focus": "Full-stack company website & admin dashboard",
-    "summary": "A production company website with a PHP + JSON API backend, admin dashboard, product variation system, Cloudinary media pipeline, and live deployment on cPanel.",
-    "tags": ["PHP", "JavaScript", "REST API", "Admin Dashboard"]
+    "name": "WARMER Pocket RPG: UNPAM",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/warmer-pocket-rpg",
+    "homepage": "https://wsyahbanii.github.io/warmer-pocket-rpg",
+    "focus": "Browser-based pocket RPG",
+    "summary": "A small browser RPG built around campus life at Universitas Pamulang, combining game logic with web front-end skills.",
+    "tags": ["JavaScript", "Game Dev", "HTML5"]
   },
   {
     "name": "Foto Kita Blur Trend",
@@ -52,14 +61,5 @@
     "focus": "Experimental micro web project",
     "summary": "A playful, self-contained micro web project used to experiment with interaction and humor in UI.",
     "tags": ["JavaScript", "CSS", "Experiment"]
-  },
-  {
-    "name": "WARMER Pocket RPG: UNPAM",
-    "repo": "wsyahbanii/wsyahbanii.github.io",
-    "url": "https://wsyahbanii.github.io/warmer-pocket-rpg",
-    "homepage": "https://wsyahbanii.github.io/warmer-pocket-rpg",
-    "focus": "Browser-based pocket RPG",
-    "summary": "A small browser RPG built around campus life at Universitas Pamulang, combining game logic with web front-end skills.",
-    "tags": ["JavaScript", "Game Dev", "HTML5"]
   }
 ]
