@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Personal Portfolio",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://github.com/wsyahbanii/wsyahbanii.github.io",
+    "homepage": "https://wsyahbanii.github.io",
+    "focus": "Personal developer portfolio",
+    "summary": "A grey minimalist portfolio with sticky-stack scroll sections, looping marquees, and a project gallery.",
+    "tags": ["HTML", "CSS", "JavaScript", "Frontend"]
+  },
+  {
+    "name": "Graha Nisala",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/chaos",
+    "homepage": "https://wsyahbanii.github.io/chaos",
+    "focus": "Experimental web experience",
+    "summary": "A creative front-end experiment exploring layout and interaction outside the standard portfolio format.",
+    "tags": ["JavaScript", "Creative Coding", "CSS"]
+  },
+  {
+    "name": "Void Booth",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/capture",
+    "homepage": "https://wsyahbanii.github.io/capture",
+    "focus": "Web-based capture experience",
+    "summary": "An interactive booth-style web app built as a standalone creative project.",
+    "tags": ["JavaScript", "Web App", "Media"]
+  },
+  {
+    "name": "Anakindo Company Website & Admin System",
+    "repo": "wsyahbanii/anakindo",
+    "url": "https://www.anakindo.co.id",
+    "homepage": "https://www.anakindo.co.id",
+    "focus": "Full-stack company website & admin dashboard",
+    "summary": "A production company website with a PHP + JSON API backend, admin dashboard, product variation system, Cloudinary media pipeline, and live deployment on cPanel.",
+    "tags": ["PHP", "JavaScript", "REST API", "Admin Dashboard"]
+  },
+  {
+    "name": "Foto Kita Blur Trend",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/assets/fotoKitaBlut.html",
+    "homepage": "https://wsyahbanii.github.io/assets/fotoKitaBlut.html",
+    "focus": "Social media trend recreation",
+    "summary": "A lightweight web recreation of a popular photo-blur social trend, built as a fun front-end experiment.",
+    "tags": ["JavaScript", "Canvas", "Fun Project"]
+  },
+  {
+    "name": "The Toilet",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/toilet",
+    "homepage": "https://wsyahbanii.github.io/toilet",
+    "focus": "Experimental micro web project",
+    "summary": "A playful, self-contained micro web project used to experiment with interaction and humor in UI.",
+    "tags": ["JavaScript", "CSS", "Experiment"]
+  },
+  {
+    "name": "WARMER Pocket RPG: UNPAM",
+    "repo": "wsyahbanii/wsyahbanii.github.io",
+    "url": "https://wsyahbanii.github.io/warmer-pocket-rpg",
+    "homepage": "https://wsyahbanii.github.io/warmer-pocket-rpg",
+    "focus": "Browser-based pocket RPG",
+    "summary": "A small browser RPG built around campus life at Universitas Pamulang, combining game logic with web front-end skills.",
+    "tags": ["JavaScript", "Game Dev", "HTML5"]
+  }
+]

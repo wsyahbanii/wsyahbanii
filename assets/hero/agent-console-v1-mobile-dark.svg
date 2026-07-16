@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465" role="img" aria-labelledby="title description">
+<title id="title">Bani - Informatics Student and Web Developer</title>
+<desc id="description">An animated developer console with an ASCII portrait, current focus, featured builds, and profile links.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#11152F"/></linearGradient>
+  <linearGradient id="ascii-signal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#7C3AED;#38BDF8;#22D3EE" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#38BDF8;#22D3EE;#7C3AED" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset="0.48" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.46"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient>
+  <radialGradient id="portrait-halo"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.12"/><stop offset="0.48" stop-color="#38BDF8" stop-opacity="0.055"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#22D3EE" opacity="0.052"/></pattern>
+  <pattern id="portrait-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M 44 0 H 0 V 44" fill="none" stroke="#38BDF8" stroke-width="0.65" opacity="0.085"/><circle cx="0" cy="0" r="1.2" fill="#22D3EE" opacity="0.13"/></pattern>
+  <clipPath id="portrait-clip"><rect x="18" y="63" width="358" height="334" rx="9"/></clipPath>
+  <mask id="portrait-reveal"><rect x="18" y="63" width="358" height="0" rx="9" fill="white"><animate attributeName="height" from="0" to="334" dur="2.1s" begin="0.12s" fill="freeze"/></rect></mask>
+  <clipPath id="system-line-0"><rect x="400" y="50.30" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="0.68s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-1"><rect x="400" y="66.70" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="0.79s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-2"><rect x="400" y="83.10" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="0.89s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-3"><rect x="400" y="99.50" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.00s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-4"><rect x="400" y="115.90" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.10s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-5"><rect x="400" y="132.30" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.21s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-7"><rect x="400" y="165.10" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.42s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-8"><rect x="400" y="181.50" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.52s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-9"><rect x="400" y="197.90" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.63s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-10"><rect x="400" y="214.30" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.73s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-12"><rect x="400" y="247.10" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="1.94s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-13"><rect x="400" y="263.50" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.04s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-14"><rect x="400" y="279.90" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.15s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-15"><rect x="400" y="296.30" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.25s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-16"><rect x="400" y="312.70" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.36s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-18"><rect x="400" y="345.50" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.57s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-19"><rect x="400" y="361.90" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.67s" fill="freeze"/></rect></clipPath>
+<clipPath id="system-line-20"><rect x="400" y="378.30" width="0" height="18.7"><animate attributeName="width" from="0" to="473" dur="0.36s" begin="2.78s" fill="freeze"/></rect></clipPath>
+  <style>
+    .mono { font-family: 'Courier New', Consolas, monospace; }
+    .ascii { font-family: 'Courier New', Consolas, monospace; font-size: 4.96px; letter-spacing: -0.15px; fill: url(#ascii-signal); }
+    .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 12px; letter-spacing: 2px; fill: #38BDF8; opacity: 0.78; }
+    .terminal-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 0.5px; fill: #64748B; }
+    .live-label { font-family: 'Courier New', Consolas, monospace; font-size: 9px; letter-spacing: 1px; fill: #F87171; }
+    .system-head { font-family: 'Courier New', Consolas, monospace; font-size: 12.7px; font-weight: 700; }
+    .system-section, .system-footer, .system-row { font-family: 'Courier New', Consolas, monospace; font-size: 10.7px; }
+    .system-section, .system-key { font-weight: 700; }
+    text, tspan { white-space: pre; }
+  </style>
+</defs>
+<rect width="900" height="465" rx="17" fill="url(#background)"/>
+<rect width="900" height="465" rx="17" fill="url(#scanlines)"/>
+<rect x="2" y="2" width="895" height="26" rx="12" fill="#07111F" fill-opacity="0.84"/>
+<circle cx="23" cy="15" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="41" cy="15" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="59" cy="15" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="449.5" y="20" text-anchor="middle" class="terminal-label">bani@devlab ~ % ./profile --live</text>
+
+<rect x="11" y="49" width="372" height="357" rx="11" fill="#07111F" fill-opacity="0.38" stroke="url(#border)" stroke-opacity="0.42"/>
+<rect x="388" y="37" width="500" height="381" rx="11" fill="#07111F" fill-opacity="0.42" stroke="url(#border)" stroke-opacity="0.42"/>
+<text x="23" y="47" class="panel-title">VISUAL.MAP / PORTRAIT.SIGNAL</text>
+<text x="400" y="47" class="panel-title">SYSTEM.INFO / RESEARCH.BUILDER</text>
+<g clip-path="url(#portrait-clip)" class="ambient-map" aria-hidden="true">
+  <rect x="18" y="63" width="358" height="334" fill="url(#portrait-grid)"/>
+  <ellipse cx="197.0" cy="206.6" rx="158.5" ry="111.8" fill="url(#portrait-halo)"/>
+  <ellipse cx="197.0" cy="206.6" rx="146.8" ry="103.5" fill="none" stroke="#38BDF8" stroke-width="1" stroke-dasharray="3 14" opacity="0.13">
+    <animateTransform attributeName="transform" type="rotate" from="0 197.0 206.6" to="360 197.0 206.6" dur="42s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="197.0" cy="206.6" rx="117.4" ry="78.7" fill="none" stroke="#7C3AED" stroke-width="1" stroke-dasharray="28 24" opacity="0.1">
+    <animateTransform attributeName="transform" type="rotate" from="360 197.0 206.6" to="0 197.0 206.6" dur="34s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M 52 101 H 114 M 52 101 V 155 M 342 367 H 280 M 342 367 V 313" fill="none" stroke="#22D3EE" stroke-width="1.2" opacity="0.2"/>
+  <path d="M 52 248.6 C 84.0 214.6, 108.9 264.6, 141.2 233.6" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.12"/>
+  <path d="M 342 154.6 C 304.0 188.6, 288.0 136.6, 255.7 176.6" fill="none" stroke="#10B981" stroke-width="1" opacity="0.11"/>
+  <g fill="#22D3EE">
+    <circle cx="52" cy="101" r="2.2" opacity="0.42"><animate attributeName="opacity" values="0.2;0.58;0.2" dur="5.6s" repeatCount="indefinite"/></circle>
+    <circle cx="342" cy="367" r="2.2" opacity="0.42"><animate attributeName="opacity" values="0.58;0.2;0.58" dur="6.4s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="254.6" r="1.7" opacity="0.32"/>
+    <circle cx="326" cy="148.6" r="1.7" opacity="0.28"/>
+  </g>
+</g>
+<g clip-path="url(#portrait-clip)" mask="url(#portrait-reveal)"><text class="ascii" fill="#22D3EE" font-family="'Courier New', Consolas, monospace" font-size="4.96px" letter-spacing="-0.15px"><tspan x="60" y="69.00" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="74.07" xml:space="preserve">::::::::::--::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..::::::::::::</tspan>
+<tspan x="60" y="79.14" xml:space="preserve">:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.::::::::::::::</tspan>
+<tspan x="60" y="84.21" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="89.28" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:::::::::::</tspan>
+<tspan x="60" y="94.35" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.....:::::::::::::::::::</tspan>
+<tspan x="60" y="99.42" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::::----::-:::.::::::::::::::::::::::.::::::::::::::</tspan>
+<tspan x="60" y="104.49" xml:space="preserve">:::::::::::::::::::::::-::::::::::--:--:------------:-----.:::::::::::::::::::::::.:::::::::::::</tspan>
+<tspan x="60" y="109.56" xml:space="preserve">::::::::::::::::::::::::::::::::-----------------------:-::--:::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="114.63" xml:space="preserve">:::::::::::::::::::::::::-::---------------------------::::::::::::::::.::::::::::::::::::::::::</tspan>
+<tspan x="60" y="119.70" xml:space="preserve">:--:::::::::::::::::::::::-----------==------------::--::::::::::.::::::::::::::::::::.:::::::::</tspan>
+<tspan x="60" y="124.77" xml:space="preserve">:::::::::::::::::::::::::------------------------:::::::::::::::::::..::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="129.84" xml:space="preserve">:::::::::::::::::::::-:::-------:::-----:--:::::::::::.::::::::::::.::::::::::::::......::::::::</tspan>
+<tspan x="60" y="134.91" xml:space="preserve">::::::::::::..::::::::::::::::::--::::::::::::::.....::::::.::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="139.98" xml:space="preserve">::::::::::::::::::::::::::.:::::::::::::::::::...:::::::::::::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="145.05" xml:space="preserve">::--:::::::::::::::::::::::::::::::::::::::::::::-==+++====-::::::::::::::::::::::::::::::::::::</tspan>
+<tspan x="60" y="150.12" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::::-+*#%%%%%%%%%#*=-::::::::::::::::::::::::::.....::</tspan>
+<tspan x="60" y="155.19" xml:space="preserve">::::::::::::::::::::::::::::::::::::::::::::=*%@@@@%%%%%%%%%%%#=--::::::::::...:::::.:::........</tspan>
+<tspan x="60" y="160.26" xml:space="preserve">:::::::::::::::::.:::::::::::::::::::::::::+%@@@@@@@@@@@@@@%@@@%#*+=-:..:::::.....::..:::.......</tspan>
+<tspan x="60" y="165.33" xml:space="preserve">:::::::::::::::::::::::::::::::::::::::::=*@@%%@@@@@@@@@@@@@@@@@@@@%#=::::.:..:::::..:.::.:::::.</tspan>
+<tspan x="60" y="170.40" xml:space="preserve">::::::::::::::::::.::::::::::.::.::::::-*#@@%%%%@@@@@@@@%@@@@%%%@@@@@@=:.....::::::::::...::::::</tspan>
+<tspan x="60" y="175.47" xml:space="preserve">:::.::::::::::::..:::...::::::::::::.:-###%%%%@@@@@@@@@@@@@@%#%%%%%%%@@=:..::::....::::.::::::::</tspan>
+<tspan x="60" y="180.54" xml:space="preserve">::::::::::::::::::::::::::::::::..::::*%#%%%%@@@@@@@@@@@@@%%%%@@@%%@%@@@=::::::::...:::...:::..:</tspan>
+<tspan x="60" y="185.61" xml:space="preserve">::...........:::::::::::::::.::::....=%##%%%%%@@@@@@@@@@@@@@@%@@@@@%@@@@#-::::::::::::::..:::.::</tspan>
+<tspan x="60" y="190.68" xml:space="preserve">:::..::::::::::::::::::::::::::::::::*###%%@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@+::::::.:::::::......::</tspan>
+<tspan x="60" y="195.75" xml:space="preserve">:::::::::::::::::::...::::::::::::::-##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-::::::::::::::....:::</tspan>
+<tspan x="60" y="200.82" xml:space="preserve">::::::::::::::::::....::::::::::::::+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=:::::::::::::::::::::</tspan>
+<tspan x="60" y="205.89" xml:space="preserve">::::::..:::::::::....:::::::..:::..-*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-:.:::::::::::::::::::</tspan>
+<tspan x="60" y="210.96" xml:space="preserve">:::::...............::::::::::::::-+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-:::::::::::::::::::::</tspan>
+<tspan x="60" y="216.03" xml:space="preserve">.........::::....::::::::::::::::=*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-::::::::::::::::.::::</tspan>
+<tspan x="60" y="221.10" xml:space="preserve">........::.:.:....:..........:::=*%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=:::::::..:::::::::...:</tspan>
+<tspan x="60" y="226.17" xml:space="preserve">::::...:::::::.....:...::......-#%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+:::::::.....:::::::::.</tspan>
+<tspan x="60" y="231.24" xml:space="preserve">::::::::::::::::::..:.......:::=%###%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+::::::::::::::::::::::</tspan>
+<tspan x="60" y="236.31" xml:space="preserve">:.:::::::::::::::::::::::::::::*##**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+-:::::::::::::::::::::</tspan>
+<tspan x="60" y="241.38" xml:space="preserve">..::::::::::.::::::::::::::::::=%##*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*-:::::::::::::::::::::</tspan>
+<tspan x="60" y="246.45" xml:space="preserve">...::::::::::...:::::::::..:::::+*-%@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%*=-::::.:..::::::::::::</tspan>
+<tspan x="60" y="251.52" xml:space="preserve">..::::::::::........::...::::...-#*:%@@##%%%@@@%@@@@@@@@@@@@@@@@@@@%%%%@#*+=-:::.:::::::::::::::</tspan>
+<tspan x="60" y="256.59" xml:space="preserve">..:::::........::::::::::::.:::..:##+%@@%##%@@@@%@@@@@@@@@@@@@@@@%*#%%%%#*+==-:-:::::::::::.::::</tspan>
+<tspan x="60" y="261.66" xml:space="preserve">..........::::::::::::::::::--=+*%%@%#@@@@@%%%%@@%%%%@@@@@@@@%%%######***++++=--==-:::::::::::::</tspan>
+<tspan x="60" y="266.73" xml:space="preserve">.....::::::::::::::::::-=+*#%@@@@@@@%#%%@@@@@@%%##%%%%%@@@@@%#%%%####**++++++*+--==-::::::::::..</tspan>
+<tspan x="60" y="271.80" xml:space="preserve">........:::::::::::::=#@@@@@@@@@@@@@%==*%@@%@@@@@%%%%@@@%######*#%@@%#*#****++**=:---:::::::::::</tspan>
+<tspan x="60" y="276.87" xml:space="preserve">:::::::::::::::::::-#@@@@@@@@@@@@@@@%-**#@@%#@@%%%%@@@%##%%%%%#%@@@@@@@@@%%%#****+=-::::::::::::</tspan>
+<tspan x="60" y="281.94" xml:space="preserve">::::::::::::::::::=@@@@@@@@@@@@@@@@@@****#@%%#@@%@%%#*#%%%%%@@@@@@@@@@@@@@@@@%#****+=-::::::::::</tspan>
+<tspan x="60" y="287.01" xml:space="preserve">..:::::::::::::::*@@@@@@@@@@@@@@@@@@@@#**#%%@#%@%%#*#%%%%%%%@@@@@@@@@@@@@@@@@@@%#***++=--:::::::</tspan>
+<tspan x="60" y="292.08" xml:space="preserve">::::......::::::*@@@@@@@@@@@@@@@@@@@@@@#%%#*##%%##%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%#*+++==--:::::</tspan>
+<tspan x="60" y="297.15" xml:space="preserve">::::.......:::.+@@@@@@@@@@@@@@@@@@@@@@@%%%%%%##%%%%%%%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@#*++++===-:::</tspan>
+<tspan x="60" y="302.22" xml:space="preserve">:::..:........=@@@@@@@@@@@@@@@@@@@@@@@@@#####%%%%%%%@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@%*+++++===--</tspan>
+<tspan x="60" y="307.29" xml:space="preserve">::...........=@@@@@@@@@@@@@@@@@@@@@@@@@@@%###%%%%%@@@@@%%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@#*++++====</tspan>
+<tspan x="60" y="312.36" xml:space="preserve">::::....:::.=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+++++==</tspan>
+<tspan x="60" y="317.43" xml:space="preserve">:::::::::::=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*++++=</tspan>
+<tspan x="60" y="322.50" xml:space="preserve">::::::::::=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*++++</tspan>
+<tspan x="60" y="327.57" xml:space="preserve">:::::::::-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%***+</tspan>
+<tspan x="60" y="332.64" xml:space="preserve">::::::::-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#**</tspan>
+<tspan x="60" y="337.71" xml:space="preserve">:::::..-@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</tspan>
+<tspan x="60" y="342.78" xml:space="preserve">:::::.-@@@@@@@@@@@@@@@@@@@@@@%=##+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="347.85" xml:space="preserve">:..::-@@@@@@@@@@@@@@@@@@@@@%%@#@@*%**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="352.92" xml:space="preserve">::::=@@@@@@@@@@@@@@@@@@@@@@#=*#+%=+%*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="357.99" xml:space="preserve">:::=@@@@@@@@@@@@@@@@@@@@@@@@#@%*#*@@*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="363.06" xml:space="preserve">::-@@@@@@@@@@@@@@@@@@@@@@@@@#%#=#+**=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="368.13" xml:space="preserve">:-@@@@@@@@@@@@@@@@@@@@@@@@@@+#%*@#%@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="60" y="373.20" xml:space="preserve">-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*#%#+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#**%@</tspan>
+<tspan x="60" y="378.27" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=-::::=</tspan>
+<tspan x="60" y="383.34" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*::.:::::</tspan>
+<tspan x="60" y="388.41" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+:...:::::</tspan></text></g>
+<g clip-path="url(#system-line-0)"><text x="403" y="63" class="system-head"><tspan fill="#7C3AED">bani@devlab</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
+<g clip-path="url(#system-line-1)"><text x="403" y="79.4" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Subject</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#E5E7EB">Bani</tspan></text></g>
+<g clip-path="url(#system-line-2)"><text x="403" y="95.8" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Role</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#E5E7EB">Informatics Student &amp; Web Developer</tspan></text></g>
+<g clip-path="url(#system-line-3)"><text x="403" y="112.19999999999999" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Affiliation</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#E5E7EB">Universitas Pamulang</tspan></text></g>
+<g clip-path="url(#system-line-4)"><text x="403" y="128.6" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Base</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#E5E7EB">Indonesia</tspan></text></g>
+<g clip-path="url(#system-line-5)"><text x="403" y="145" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Status</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">Learning / Building / Shipping</tspan></text></g>
+<g clip-path="url(#system-line-7)"><text x="403" y="177.79999999999998" class="system-section" fill="#10B981">- STACK.NODE -----------------------------------</text></g>
+<g clip-path="url(#system-line-8)"><text x="403" y="194.2" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Primary</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#E5E7EB">Full-Stack Web Dev</tspan></text></g>
+<g clip-path="url(#system-line-9)"><text x="403" y="210.6" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Direction</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">PHP + Vanilla JS Systems</tspan></text></g>
+<g clip-path="url(#system-line-10)"><text x="403" y="227" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Themes</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">Admin dashboards / UX / deployment</tspan></text></g>
+<g clip-path="url(#system-line-12)"><text x="403" y="259.79999999999995" class="system-section" fill="#10B981">- BUILD.LOG -----------------------------------</text></g>
+<g clip-path="url(#system-line-13)"><text x="403" y="276.2" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Anakindo</tspan><tspan fill="#64748B">: ...... </tspan><tspan fill="#E5E7EB">Company site &amp; admin system</tspan></text></g>
+<g clip-path="url(#system-line-14)"><text x="403" y="292.59999999999997" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Portfolio</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">Personal dev portfolio</tspan></text></g>
+<g clip-path="url(#system-line-15)"><text x="403" y="309" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Warmer RPG</tspan><tspan fill="#64748B">: .... </tspan><tspan fill="#E5E7EB">Browser pocket RPG</tspan></text></g>
+<g clip-path="url(#system-line-16)"><text x="403" y="325.4" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Void Booth</tspan><tspan fill="#64748B">: .... </tspan><tspan fill="#E5E7EB">Interactive capture app</tspan></text></g>
+<g clip-path="url(#system-line-18)"><text x="403" y="358.2" class="system-section" fill="#10B981">- GRID.LINKS -----------------------------------</text></g>
+<g clip-path="url(#system-line-19)"><text x="403" y="374.59999999999997" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">GitHub</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">@wsyahbanii</tspan></text></g>
+<g clip-path="url(#system-line-20)"><text x="403" y="391" class="system-footer" fill="#38BDF8">signal.locked &gt; WEB / SYSTEMS / DEPLOY</text></g>
+<rect x="405" y="376" width="9" height="12.7" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="450" y="446" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="#64748B">WEB DEV / ADMIN SYSTEMS / DEPLOYMENT</text>
+<rect x="0" y="-70" width="900" height="70" fill="url(#scan)" opacity="0.72" style="mix-blend-mode:screen"><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 535" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect x="3" y="3" width="894" height="459" rx="15" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.76"><animate attributeName="opacity" values="0.5;0.94;0.5" dur="3.4s" repeatCount="indefinite"/></rect>
+</svg>
