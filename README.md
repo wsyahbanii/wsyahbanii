@@ -77,7 +77,6 @@ Most of my hands-on work centers on shipping real, production-facing systems: a 
 - Sep 16, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
 - Sep 16, 2026: created a branch in [wsyahbanii/pkm](https://github.com/wsyahbanii/pkm).
 - Sep 14, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
-- Aug 24, 2026: pushed 1 commit to [wsyahbanii/toilet](https://github.com/wsyahbanii/toilet).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
