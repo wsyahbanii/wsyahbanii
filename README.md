@@ -74,9 +74,9 @@ Most of my hands-on work centers on shipping real, production-facing systems: a 
 ### Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 14, 2026: pushed 1 commit to [wsyahbanii/capture](https://github.com/wsyahbanii/capture).
 - Sep 16, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
 - Sep 16, 2026: created a branch in [wsyahbanii/pkm](https://github.com/wsyahbanii/pkm).
-- Sep 14, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
