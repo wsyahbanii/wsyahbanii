@@ -74,10 +74,10 @@ Most of my hands-on work centers on shipping real, production-facing systems: a 
 ### Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 13, 2026: pushed 1 commit to [wsyahbanii/chaos](https://github.com/wsyahbanii/chaos).
 - Nov 9, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
 - Nov 1, 2026: pushed 1 commit to [wsyahbanii/toilet](https://github.com/wsyahbanii/toilet).
 - Oct 25, 2026: pushed 1 commit to [wsyahbanii/toilet](https://github.com/wsyahbanii/toilet).
-- Oct 15, 2026: pushed 1 commit to [wsyahbanii/wsyahbanii.github.io](https://github.com/wsyahbanii/wsyahbanii.github.io).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
